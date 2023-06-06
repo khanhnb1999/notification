@@ -16,8 +16,8 @@ function App() {
 			{/* <SignIn /> */}
 			{/* <Google /> */}
 			{/* <Auth /> */}
-			{/* <GitHub /> */}
-			{/* <Upload /> */}
+			<GitHub />
+			<Upload />
 			<FaceBook />
 			{/* <FormInput /> */}
 		</>
